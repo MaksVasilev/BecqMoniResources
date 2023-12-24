@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.4142136"
-     inkscape:cx="69.296465"
-     inkscape:cy="198.69701"
+     inkscape:cx="170.76628"
+     inkscape:cy="197.28279"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -2658,9 +2658,9 @@
        rx="1.3422765"
        ry="1.3422765"
        transform="scale(-1)"
-       inkscape:export-filename="icons_24.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-filename="icons_32_ms.png"
+       inkscape:export-xdpi="127.99996"
+       inkscape:export-ydpi="127.99996" />
     <ellipse
        style="fill:url(#radialGradient119-6-9-2-0);stroke:none;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1"
        id="path117-7-8-6-4"
@@ -2723,7 +2723,7 @@
          style="fill:#0e232e;stroke-width:0.264583"
          x="90.292252"
          y="93.824005"
-         id="tspan49">v. 20231224.1708</tspan><tspan
+         id="tspan49">v. 20231224.1732</tspan><tspan
          sodipodi:role="line"
          style="fill:#999999;stroke-width:0.264583"
          x="90.292252"
@@ -2870,10 +2870,10 @@
        y="86.054031"
        id="text48-5-7-2-9-1"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.11667px;font-family:'PT Root UI VF';-inkscape-font-specification:'PT Root UI VF Light';text-align:center;text-anchor:middle;fill:#0e232e;stroke-width:0.264583"
-         x="-1.3206396"
+         x="-1.3206391"
          y="86.054031"
          id="tspan3-3-6-2-2"
-         sodipodi:role="line">Small: 24 px</tspan></text>
+         sodipodi:role="line">Small: 24, 32_ms px</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:300;font-size:2.11667px;line-height:1.25;font-family:'PT Root UI VF';-inkscape-font-specification:'PT Root UI VF Light';text-align:end;text-anchor:end;fill:#0e232e;stroke-width:0.264583"
